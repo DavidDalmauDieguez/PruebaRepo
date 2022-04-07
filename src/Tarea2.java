@@ -17,5 +17,6 @@ public class Tarea2 {
 			else
 			n1--;
 		System.out.println(n1);
+		
 	}
 }
